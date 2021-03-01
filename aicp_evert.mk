@@ -65,6 +65,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := motorola/evert/evert:8.0.0/OPW27.113-89/116:user/release-keys
 
+PRODUCT_OVERRIDE_INFO := true
+PRODUCT_OVERRIDE_FINGERPRINT := google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
+
 # AICP Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    DEVICE_MAINTAINERS="Jeferson Oliveira (jro1979oliver)" 
+    DEVICE_MAINTAINERS="Jeferson Oliveira (jro1979oliver)"
